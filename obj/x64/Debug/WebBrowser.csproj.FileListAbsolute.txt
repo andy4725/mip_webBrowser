@@ -1,0 +1,9 @@
+C:\C#\Lab_03\WebBrowser\obj\x64\Debug\WebBrowser.csproj.AssemblyReference.cache
+C:\C#\Lab_03\WebBrowser\obj\x64\Debug\WebBrowser.csproj.CoreCompileInputs.cache
+C:\C#\Lab_03\WebBrowser\bin\Debug\e_sqlite3.dll
+C:\C#\Lab_03\WebBrowser\bin\Debug\WebBrowser.exe
+C:\C#\Lab_03\WebBrowser\bin\Debug\WebBrowser.pdb
+C:\C#\Lab_03\WebBrowser\bin\Debug\System.Data.SQLite.dll
+C:\C#\Lab_03\WebBrowser\obj\x64\Debug\WebBrowser.csproj.Up2Date
+C:\C#\Lab_03\WebBrowser\obj\x64\Debug\WebBrowser.exe
+C:\C#\Lab_03\WebBrowser\obj\x64\Debug\WebBrowser.pdb
